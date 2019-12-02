@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Ekin.Auth.Models</id>
+    <version>$version$</version>
+    <title>Ekin.Auth.Models</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://ekin.co/auth_license</licenseUrl>
+    <projectUrl>http://ekin.co/auth</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Please see the website</releaseNotes>
+    <copyright>Copyright 2016-2017</copyright>
+    <tags>Ekin Auth Models</tags>
+  </metadata>
+</package>
